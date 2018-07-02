@@ -1,0 +1,2 @@
+# pythonCollect
+collect for. practice
